@@ -1,0 +1,21 @@
+.font-15 {
+    font-size: 15px;
+}
+.font-42-28 {
+    font-size: 42px;
+}
+.font-19 {
+    font-size: 19.38px;
+    font-weight: 700;
+}
+.font-35 {
+    font-size: 35.77px;
+}
+.font-23 {
+    font-size: 23px;
+}
+@media only screen and (max-width:768px) {
+    .font-42-28 {
+        font-size: 28px;
+    }
+}
